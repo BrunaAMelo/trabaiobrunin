@@ -42,7 +42,7 @@ public class project {
     public int anteriorNumero(int n){
         return n--; 
     }
-    System.out.println("Deu certo!");
+    System.out.println("Oi Bruninho!");
 }
         
 
